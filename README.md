@@ -2,48 +2,47 @@
 
 # **Adeus**
 
-Open-Source AI Wearable Device, the future depends on it!
-
-![ADeus v0.1](docs/images/adeus_01.jpeg)
-
-<h3>
-
-[Homepage](https://www.adeus.ai/) | [Documentation](https://docs.adeus.ai/) | [Discord](https://discord.gg/N5c6KXBgWW)
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<h1 tabindex="-1" dir="auto"><a id="user-content-adeus" class="anchor" aria-hidden="true" tabindex="-1" href="#adeus"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿迪乌斯</font></font></strong></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源AI可穿戴设备，未来就靠它了！</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/adamcohenhillel/ADeus/blob/main/docs/images/adeus_01.jpeg"><img src="/adamcohenhillel/ADeus/raw/main/docs/images/adeus_01.jpeg" alt="阿迪乌斯 v0.1" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-homepage--documentation--discord" class="anchor" aria-hidden="true" tabindex="-1" href="#homepage--documentation--discord"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<p dir="auto"><a href="https://www.adeus.ai/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font><a href="https://docs.adeus.ai/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font><a href="https://discord.gg/N5c6KXBgWW" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></p>
 </h3>
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/adamcohenhillel/ADeus)](https://github.com/adamcohenhillel/ADeus)
-
-Adeus is a wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want or need to talk about - **a truly personalized, personal AI.**
-
+<p dir="auto"><a href="https://github.com/adamcohenhillel/ADeus"><img src="https://camo.githubusercontent.com/9e930963f79276d7c01c8647cdbccfd9623643574582d3d9f9998a6cc584f583/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6164616d636f68656e68696c6c656c2f4144657573" alt="GitHub 存储库星星" data-canonical-src="https://img.shields.io/github/stars/adamcohenhillel/ADeus" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adeus 是一款可穿戴设备，可以捕获您在现实世界中所说和听到的内容，然后将其转录并存储在您自己的服务器上。</font><font style="vertical-align: inherit;">然后，您可以使用该应用程序与 Adeus 聊天，它会提供有关您想要或需要谈论的内容的所有正确上下文 -</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">真正个性化的个人人工智能。</font></font></strong></p>
 </div>
-
-## Table of contents
-
-- [Why Adeus?](#why-adeus)
-- [How Adeus is built](#how-adeus-is-built)
-- [Documentation](#documentation)
-  - [Getting Started](https://docs.adeus.ai/getting_started.html)
-  - [How to Contribute](https://docs.adeus.ai/#how-to-contribute)
-
-## Why Adeus?
-
-In the upcoming world, Personal AI will become an integrated part of our daily lives, they will be with us all the time, and will know much about us as our closest friends - and therefore, with Adeus, we are making sure it is completely open-source, and that you can **own** your own data.
-
-## How Adeus is built
-
-Adeus consists of 3 parts:
-
-1. **A mobile / web app:**
-   An interface that allows the user to interact with their Personal AI and data through chat.
-
-2. **Hardware device:** The wearable device that will record everything the user say or hear, and send it to the backend to be processed.
-
-3. **Supabase :** The backend and database, where we will process and store data, and interact with LLMs.
-
-![ADeus diagram](docs/images/adeus_diagram.png)
-
-## Documentation:
-
-- [Getting Started Guide](https://docs.adeus.ai/getting_started.html#1-backend-supabase)
-- [How to Contribute?](https://docs.adeus.ai/#how-to-contribute)
+<h2 tabindex="-1" dir="auto"><a id="user-content-table-of-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2>
+<ul dir="auto">
+<li><a href="#why-adeus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么是阿迪乌斯？</font></font></a></li>
+<li><a href="#how-adeus-is-built"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adeus 是如何构建的</font></font></a></li>
+<li><a href="#documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a>
+<ul dir="auto">
+<li><a href="https://docs.adeus.ai/getting_started.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a></li>
+<li><a href="https://docs.adeus.ai/#how-to-contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何贡献</font></font></a></li>
+</ul>
+</li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-why-adeus" class="anchor" aria-hidden="true" tabindex="-1" href="#why-adeus"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么是阿迪乌斯？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在即将到来的世界中，个人人工智能将成为我们日常生活不可分割的一部分，他们将一直与我们同在，并将像我们最亲密的朋友一样了解我们——因此，与 Adeus 一起，我们确保它完全开源，并且您可以</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自己的数据。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-adeus-is-built" class="anchor" aria-hidden="true" tabindex="-1" href="#how-adeus-is-built"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adeus 是如何构建的</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adeus由3部分组成：</font></font></p>
+<ol dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动/网络应用程序：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+允许用户通过聊天与其个人人工智能和数据进行交互的界面。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件设备：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可穿戴设备，会记录用户所说或听到的一切，并将其发送到后端进行处理。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supabase：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端和数据库，我们将在其中处理和存储数据，并与法学硕士进行交互。</font></font></p>
+</li>
+</ol>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/adamcohenhillel/ADeus/blob/main/docs/images/adeus_diagram.png"><img src="/adamcohenhillel/ADeus/raw/main/docs/images/adeus_diagram.png" alt="阿德乌斯图" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档：</font></font></h2>
+<ul dir="auto">
+<li><a href="https://docs.adeus.ai/getting_started.html#1-backend-supabase" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门指南</font></font></a></li>
+<li><a href="https://docs.adeus.ai/#how-to-contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何贡献？</font></font></a></li>
+</ul>
+</article></div>
